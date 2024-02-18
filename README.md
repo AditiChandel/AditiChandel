@@ -5,7 +5,7 @@
 </h1>
 
 
-🔭 I’m currently a BCA student.
+<be>🔭 I’m currently a BCA student.</br>
 <br>🌱 I’m currently learning: Python, HTML, and CSS.</br>
 <br>📫 Connect on Instagram: @diary_ofaditi 🎨💻</br>
 <br>😄 Pronouns: She/Her/Hers</br>
