@@ -9,6 +9,6 @@
 <br>🌱 I’m currently learning: Python, HTML, and CSS.</br>
 <br>📫 Connect on Instagram: @diary_ofaditi 🎨💻</br>
 <br>😄 Pronouns: She/Her/Hers</br>
-<br>⚡ Hobbies: Art, dance, code - my trinity of passions!</br>
+<br>⚡ Hobbies: Art & Craft(Sketching), dance, code - my trinity of passions!</br>
 
 
