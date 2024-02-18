@@ -10,4 +10,5 @@
 📫 Connect on Instagram: @diary_ofaditi 🎨💻
 😄 Pronouns: She/Her/Hers
 ⚡ Hobbies: Art, dance, code - my trinity of passions!
+<br />
 
