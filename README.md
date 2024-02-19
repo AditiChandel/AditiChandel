@@ -5,10 +5,10 @@
 </h1>
 
 
-<br>🔭 I’m currently a BCA student.</br>
-<br>🌱 I’m currently learning: Python, HTML, and CSS.</br>
-<br>📫 Connect on Instagram: @diary_ofaditi 🎨💻</br>
-<br>😄 Pronouns: She/Her/Hers</br>
-<br>⚡ Hobbies: Art & Craft(Sketching), dance, code - my trinity of passions!</br>
+🔭 I’m currently a BCA student.<br>
+🌱 I’m currently learning: Python, HTML, and CSS.<br>
+📫 Connect on Instagram: @diary_ofaditi 🎨💻<br>
+😄 Pronouns: She/Her/Hers<br>
+⚡ Hobbies: Art & Craft(Sketching), dance, code - my trinity of passions!</br>
 
 
