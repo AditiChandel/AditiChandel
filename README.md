@@ -7,7 +7,7 @@
 
 🔭 I’m currently a BCA student.<br>
 🌱 I’m currently learning: Python, HTML, and CSS.<br>
-📫 Connect on Instagram: @diary_ofaditi 🎨💻<br>
+📫 Connect on Linkedin: <a href = "www.linkedin.com/in/aditi-chandel-49114a2b5">Linkedin</a> <br>
 😄 Pronouns: She/Her/Hers<br>
 ⚡ Hobbies: Art & Craft(Sketching), dance, code - my trinity of passions!</br>
 
