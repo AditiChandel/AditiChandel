@@ -24,6 +24,8 @@
   </a>
 </div><div align="center">
 
+<div><img src = "viktor-forgacs-qe5mRoPJjQ0-unsplash"></div>
+
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
