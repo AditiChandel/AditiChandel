@@ -24,8 +24,6 @@
   </a>
 </div><div align="center">
 
-<div><img src = "https://unsplash.com/photos/think-positive-text-illustration-qe5mRoPJjQ0?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash"></div>
-
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
