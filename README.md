@@ -5,18 +5,15 @@
   </a>
 </h1>
 
-
-🔭 I’m currently a BCA student.<br>
 🌱 Currently a newcomer, actively growing and learning in the field.<br>
 😄 Pronouns: She/Her/Hers<br>
-⚡ Hobbies: Art & Craft(Sketching), dance, code - my trinity of passions!</br>
 
  <div align="center"> 
   <a href="mailto:aditichandel576@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/aditi-chandel-49114a2b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/aditi-chandel-49114a2b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcxFcNvsBQUSUZf7zn44UIQ%3D%3D" />
   </a>
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
