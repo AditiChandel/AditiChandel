@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-🌱 Currently a newcomer, actively growing and learning in the field.<br>
+🌱 Currently actively growing and learning in the field.<br>
 😄 Pronouns: She/Her/Hers<br>
 
  <div align="center"> 
